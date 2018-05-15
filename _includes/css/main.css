@@ -93,8 +93,8 @@ hr.star-primary:after {
 
 header {
     text-align: center;
-    color: #A9A9A9;
-    background: #{{ site.color.primary }};
+    color: #cccccc;
+    background: img/("Neurons website background.png");
 }
 
 header .container {
