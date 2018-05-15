@@ -94,7 +94,7 @@ hr.star-primary:after {
 header {
     text-align: center;
     color: #cccccc;
-    background: img/("Neurons website background.png");
+    background-image: "Neurons website background.png";
 }
 
 header .container {
