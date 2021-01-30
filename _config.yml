@@ -51,7 +51,7 @@ address:
   - line: Hamilton, ON, Canada
 
 # Credits content
-credits: 'credits'
+credits: 'NSERC'
 
 # Build settings
 markdown: kramdown
